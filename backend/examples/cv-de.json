@@ -1,0 +1,382 @@
+{
+  "id": "29aa41f7-f25e-535d-9180-7ba247e82fe1",
+  "cv_name": "Maya - Deutscher Lebenslauf",
+  "cv_language": "de",
+  "target_country_code": "CH",
+  "style": {
+    "template_id": "classic",
+    "accent_color": "#2563EB",
+    "section_spacing": 0.9,
+    "line_spacing": 1.1,
+    "margin_spacing": 1.2,
+    "date_position": "trailing",
+    "text_alignment": "justify",
+    "font_size": 0.85,
+    "font_family": "georgia",
+    "content_font_scale": 0.95,
+    "heading_font_scale": 1.15
+  },
+  "personal_details": {
+    "first_name": "Maya",
+    "last_name": "Example",
+    "professional_title": "Softwareentwicklerin",
+    "email": "maya@example.com",
+    "phone": "123",
+    "street_address": "123 Street",
+    "city": "Zurich",
+    "state": "NY",
+    "postal_code": "10001",
+    "country": "Switzerland",
+    "date_of_birth": "1990-01-01",
+    "place_of_birth": "Springfield",
+    "nationality": "American",
+    "marital_status": "Single",
+    "driving_license": "B",
+    "personal_website": "https://example.com"
+  },
+  "professional_summary": {
+    "summary": "Softwareentwicklerin mit Erfahrung in internen Geschäftsanwendungen."
+  },
+  "sections": [
+    {
+      "id": "216d4591-bcc0-56a0-a2de-5fe72e6b386a",
+      "kind": "social_links",
+      "social_links": [
+        {
+          "id": "a7d0b984-2a5d-5aaa-8749-20ea0f91e47b",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/john"
+        },
+        {
+          "id": "a42f4734-f041-504f-9c31-4889854425e5",
+          "label": "GitHub",
+          "url": "https://github.com/johndoe"
+        }
+      ]
+    },
+    {
+      "id": "6fc36774-2680-51a1-b8f0-8638e5843139",
+      "kind": "employment",
+      "employment": [
+        {
+          "id": "903bf45a-3696-50c4-a2a2-2ca744765c98",
+          "start_date": {
+            "year": 2024,
+            "month": null
+          },
+          "end_date": null,
+          "job_title": "Engineering Managerin",
+          "employer": "Northstar AG",
+          "city": "Zurich",
+          "description": "<ul><li>Leitete ein Entwicklungsteam.</li></ul>"
+        },
+        {
+          "id": "5286132e-1715-5bd0-b99a-f37ae4b52d0c",
+          "start_date": {
+            "year": 2020,
+            "month": 1
+          },
+          "end_date": {
+            "year": 2023,
+            "month": 12
+          },
+          "job_title": "Softwareentwicklerin",
+          "employer": "Northstar AG",
+          "city": "Zurich",
+          "description": "<ul><li>Entwickelte interne Reporting-Anwendungen mit Python und PostgreSQL.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "de9ff457-1ad5-5de5-ac34-8930003cea2d",
+      "kind": "education",
+      "education": [
+        {
+          "id": "293b3e1e-6283-5593-b205-6901dfd99491",
+          "start_date": {
+            "month": 9,
+            "year": 2010
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2014
+          },
+          "school_name": "University",
+          "degree": "BSc CS",
+          "city": "New York",
+          "description": "Studied computer science"
+        },
+        {
+          "id": "3f004c48-d9e8-5ccb-8cbf-2e8c7f234353",
+          "start_date": {
+            "month": 9,
+            "year": 2014
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2016
+          },
+          "school_name": "University",
+          "degree": "MSc CS",
+          "city": "New York",
+          "description": "Advanced studies"
+        }
+      ]
+    },
+    {
+      "id": "143e0cef-3236-5de5-93bc-139c56d744a8",
+      "kind": "skills",
+      "groups": [
+        {
+          "name": "Programming",
+          "skills": [
+            {
+              "id": "32d73605-984e-56e1-8116-359689f54101",
+              "skill_name": "Python",
+              "level": "expert"
+            },
+            {
+              "id": "eb9aab35-bca9-5609-875b-729c30fb6d91",
+              "skill_name": "SQL",
+              "level": "skillful"
+            }
+          ]
+        },
+        {
+          "name": "DevOps",
+          "skills": [
+            {
+              "id": "2477deed-4ed6-5db7-9734-f65e028e038d",
+              "skill_name": "Docker",
+              "level": null
+            },
+            {
+              "id": "97504769-7b3c-53a6-828b-9686c71fcc54",
+              "skill_name": "Kubernetes",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "skills": [
+            {
+              "id": "76ceada0-02ff-520d-a38e-ca9d6657f70e",
+              "skill_name": "Problem Solving",
+              "level": "experienced"
+            },
+            {
+              "id": "78fe8217-5640-5b9f-85af-2ec302716922",
+              "skill_name": "Communication",
+              "level": "expert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8de7a7f-4734-5e80-8209-675e0666c5ba",
+      "kind": "languages",
+      "languages": [
+        {
+          "id": "d0a5397e-f57e-5ada-bf1a-555ebf3e02a4",
+          "language": "English",
+          "level": "C2"
+        },
+        {
+          "id": "534b1483-5cd5-5310-bcc1-0c02596b0e4f",
+          "language": "Spanish",
+          "level": "B2"
+        },
+        {
+          "id": "1f6acbb1-2699-51fd-81e4-66c602563f8d",
+          "language": "German",
+          "level": null
+        }
+      ]
+    },
+    {
+      "id": "78c5e858-b5a8-5e51-a6cf-f67ced822c6c",
+      "kind": "awards",
+      "awards": [
+        {
+          "id": "486dd65d-7fa2-534c-b178-86c24a30e382",
+          "name": "Best Developer",
+          "city": "New York",
+          "start_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2019
+          },
+          "description": "Received award"
+        },
+        {
+          "id": "712e24d2-d221-5e46-9bc4-0579b73a5355",
+          "name": "Top Performer",
+          "city": "Boston",
+          "start_date": {
+            "month": 3,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2017
+          },
+          "description": "Recognized for performance"
+        }
+      ]
+    },
+    {
+      "id": "72060144-9a1a-56ed-b67e-73ce7e452fdf",
+      "kind": "extracurricular",
+      "extra_curricular_activities": [
+        {
+          "id": "7fd38886-e840-5aaa-895e-ed198504d486",
+          "function_title": "Volunteer",
+          "employer": "Nonprofit",
+          "start_date": {
+            "month": 3,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2018
+          },
+          "city": "New York",
+          "description": "Community service"
+        },
+        {
+          "id": "071c685e-4093-5959-a27f-c13a6f6e4a99",
+          "function_title": "Tutor",
+          "employer": "Education Center",
+          "start_date": {
+            "month": 1,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2017
+          },
+          "city": "Boston",
+          "description": "Taught programming"
+        }
+      ]
+    },
+    {
+      "id": "3b03850d-3888-5a1e-b2fb-8e7bffc813e3",
+      "kind": "courses",
+      "courses": [
+        {
+          "id": "ca496067-05a9-51d9-ba01-edaaa176d974",
+          "course": "Algorithms",
+          "institution": "Institute",
+          "start_date": {
+            "month": 1,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2015
+          }
+        },
+        {
+          "id": "ccdb7970-2822-5c28-9304-f77b26e4a401",
+          "course": "Data Structures",
+          "institution": "Academy",
+          "start_date": {
+            "month": 3,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2015
+          }
+        }
+      ]
+    },
+    {
+      "id": "f4ae6d5c-d644-5bd8-b4d4-098901a759ec",
+      "kind": "hobbies",
+      "hobbies": [
+        {
+          "id": "598a90ff-b96f-5aa5-84ff-a2eeec32b47c",
+          "hobby": "Guitar"
+        },
+        {
+          "id": "93d0aba0-5534-5a2a-abd7-831df2948aa5",
+          "hobby": "Hiking"
+        },
+        {
+          "id": "6a974b07-e347-55a3-b460-e22be476d8ed",
+          "hobby": "Photography"
+        }
+      ]
+    },
+    {
+      "id": "723bc158-2ec0-516d-9d45-273e3206379e",
+      "kind": "references",
+      "references": [
+        {
+          "id": "cc948128-3618-5fe9-9f3d-2a6a0a20c259",
+          "referent_full_name": "Jane Smith",
+          "company_name": "Company",
+          "phone": "456",
+          "email": "jane@example.com"
+        },
+        {
+          "id": "8135c8a8-2281-5159-92b7-a7ec255011f8",
+          "referent_full_name": "Bob Johnson",
+          "company_name": "Another Co",
+          "phone": "789",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": "f56cfdf5-57af-58ae-b6d2-8d33e6c97450",
+      "kind": "custom",
+      "title": "Projects",
+      "content": [
+        {
+          "id": "d90d17ce-f343-5d4a-b022-1e24713d06a7",
+          "title": "Project X",
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2022
+          },
+          "city": "Los Angeles",
+          "description": "Secret project"
+        },
+        {
+          "id": "1bdea9aa-7308-53da-977e-e7c15f92f110",
+          "title": "Project Y",
+          "start_date": {
+            "month": 1,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "city": "San Francisco",
+          "description": "Another secret project"
+        }
+      ]
+    }
+  ],
+  "footer_sections": {
+    "privacy_clause": {},
+    "signature": {
+      "location": "New York",
+      "include_date": true,
+      "show_name": true
+    }
+  }
+}

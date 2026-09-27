@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "job_title": "Consultant",
+  "employer": "Example Ltd",
+  "city": "Bern",
+  "description": "<ul><li>Short-term advisory engagement.</li></ul>",
+  "start_date": {
+    "year": 2025,
+    "month": 1
+  },
+  "end_date": null
+}

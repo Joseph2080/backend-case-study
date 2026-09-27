@@ -1,0 +1,397 @@
+{
+  "id": "1342e8e4-e5d8-4b70-8b0e-7a1fbe3654eb",
+  "cv_name": "Maya Alexandra - Detailed CV",
+  "cv_language": "en",
+  "target_country_code": "CH",
+  "style": {
+    "template_id": "classic",
+    "accent_color": "#2563EB",
+    "section_spacing": 0.9,
+    "line_spacing": 1.1,
+    "margin_spacing": 1.2,
+    "date_position": "trailing",
+    "text_alignment": "justify",
+    "font_size": 0.85,
+    "font_family": "georgia",
+    "content_font_scale": 0.95,
+    "heading_font_scale": 1.15
+  },
+  "personal_details": {
+    "first_name": "Maya Alexandra",
+    "last_name": "Example",
+    "professional_title": "Engineering Manager",
+    "email": "maya@example.com",
+    "phone": "123",
+    "street_address": "123 Street",
+    "city": "Zurich",
+    "state": "NY",
+    "postal_code": "10001",
+    "country": "Switzerland",
+    "date_of_birth": "1990-01-01",
+    "place_of_birth": "Springfield",
+    "nationality": "American",
+    "marital_status": "Single",
+    "driving_license": "B",
+    "personal_website": "https://example.com"
+  },
+  "professional_summary": {
+    "summary": "Engineering manager with a background in Python services, reporting systems, and internal platforms."
+  },
+  "sections": [
+    {
+      "id": "53276836-4402-4b5e-ad8c-8c85a83459ea",
+      "kind": "social_links",
+      "social_links": [
+        {
+          "id": "19fea658-31e1-47b5-94d8-597d4871d477",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/john"
+        },
+        {
+          "id": "ce660f50-4c1f-4757-b020-eb82d84eb8ad",
+          "label": "GitHub",
+          "url": "https://github.com/johndoe"
+        }
+      ]
+    },
+    {
+      "id": "090f590b-a107-4cdf-bc87-cabacad085d7",
+      "kind": "employment",
+      "employment": [
+        {
+          "id": "ddd0615a-e9f8-40e9-a96e-9329fb7f4ef7",
+          "start_date": {
+            "year": 2024,
+            "month": 1
+          },
+          "end_date": null,
+          "job_title": "Engineering Manager, Internal Platforms",
+          "employer": "Northstar AG",
+          "city": "Zurich",
+          "description": "<ul><li>Led the engineering team responsible for internal business applications.</li></ul>"
+        },
+        {
+          "id": "05270134-4e62-4ecb-bd95-d8909b2edcb4",
+          "start_date": {
+            "year": 2020,
+            "month": 2
+          },
+          "end_date": {
+            "year": 2023,
+            "month": null
+          },
+          "job_title": "Backend Software Engineer",
+          "employer": "Northstar AG",
+          "city": "Zurich",
+          "description": "<ul><li>Developed Python services and PostgreSQL reporting workflows for internal teams.</li></ul>"
+        },
+        {
+          "id": "ad3f780e-3c0d-4372-8e4d-6f5aa6312117",
+          "start_date": {
+            "year": 2016,
+            "month": 7
+          },
+          "end_date": {
+            "year": 2019,
+            "month": 12
+          },
+          "job_title": "Junior Software Engineer",
+          "employer": "Harbor Systems",
+          "city": "New York",
+          "description": "<ul><li>Maintained internal reporting applications and automated data imports.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "98ea7789-8c06-4159-a4d1-5912cf97772d",
+      "kind": "education",
+      "education": [
+        {
+          "id": "3aef441b-c926-4450-829a-e28b60954fe0",
+          "start_date": {
+            "month": 9,
+            "year": 2010
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2014
+          },
+          "school_name": "University",
+          "degree": "BSc CS",
+          "city": "New York",
+          "description": "Studied computer science"
+        },
+        {
+          "id": "bf4813cf-44b8-43ac-9f1f-7ce249ef88f1",
+          "start_date": {
+            "month": 9,
+            "year": 2014
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2016
+          },
+          "school_name": "University",
+          "degree": "MSc CS",
+          "city": "New York",
+          "description": "Advanced studies"
+        }
+      ]
+    },
+    {
+      "id": "83c7fbe7-76f8-40df-aaa7-7434f5e2cb9b",
+      "kind": "skills",
+      "groups": [
+        {
+          "name": "Programming",
+          "skills": [
+            {
+              "id": "c599c1ef-1a94-4640-8fff-9165269c4c72",
+              "skill_name": "Python",
+              "level": "expert"
+            },
+            {
+              "id": "fa50fba3-b896-46f8-994f-642a396f6158",
+              "skill_name": "SQL",
+              "level": "skillful"
+            }
+          ]
+        },
+        {
+          "name": "DevOps",
+          "skills": [
+            {
+              "id": "8ae65172-a02e-4470-ba28-ea0fe00bb154",
+              "skill_name": "Docker",
+              "level": null
+            },
+            {
+              "id": "db9c584d-98f6-41e5-b535-c5a04ba3045b",
+              "skill_name": "Kubernetes",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "skills": [
+            {
+              "id": "8f6615ca-d485-4c05-9acd-1865e9a2f4b4",
+              "skill_name": "Problem Solving",
+              "level": "experienced"
+            },
+            {
+              "id": "6b2a0154-8b68-4abf-9d79-6889d0bc1269",
+              "skill_name": "Communication",
+              "level": "expert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcde18b7-758b-48ab-ac03-656f0a28f892",
+      "kind": "languages",
+      "languages": [
+        {
+          "id": "aa13e53e-401b-42fc-a176-f176a584be9e",
+          "language": "English",
+          "level": "C2"
+        },
+        {
+          "id": "5e2381fc-cfdd-4103-b85f-735a20ee73a0",
+          "language": "Spanish",
+          "level": "B2"
+        },
+        {
+          "id": "ffff92f3-adca-468c-b068-30270c9db5a1",
+          "language": "German",
+          "level": null
+        }
+      ]
+    },
+    {
+      "id": "1bfe83b2-e2d5-4df5-b6e0-0c9cee07125f",
+      "kind": "awards",
+      "awards": [
+        {
+          "id": "8ee79f60-f495-4296-a048-cbb89be7959a",
+          "name": "Best Developer",
+          "city": "New York",
+          "start_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2019
+          },
+          "description": "Received award"
+        },
+        {
+          "id": "460fe6f4-8c7d-4a15-8f48-360013b00239",
+          "name": "Top Performer",
+          "city": "Boston",
+          "start_date": {
+            "month": 3,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2017
+          },
+          "description": "Recognized for performance"
+        }
+      ]
+    },
+    {
+      "id": "bb5c33e5-5bf4-4201-a57d-d795ccaf8159",
+      "kind": "extracurricular",
+      "extra_curricular_activities": [
+        {
+          "id": "8404b502-83c7-43a8-9bde-1b77d04c414f",
+          "function_title": "Volunteer",
+          "employer": "Nonprofit",
+          "start_date": {
+            "month": 3,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2018
+          },
+          "city": "New York",
+          "description": "Community service"
+        },
+        {
+          "id": "306968a5-d78e-443d-9116-28f1f0330226",
+          "function_title": "Tutor",
+          "employer": "Education Center",
+          "start_date": {
+            "month": 1,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2017
+          },
+          "city": "Boston",
+          "description": "Taught programming"
+        }
+      ]
+    },
+    {
+      "id": "82bcb5bb-28f5-4eb0-979b-814f3c78d0f5",
+      "kind": "courses",
+      "courses": [
+        {
+          "id": "73f11ecb-a777-4b36-b90b-e33cf591f456",
+          "course": "Algorithms",
+          "institution": "Institute",
+          "start_date": {
+            "month": 1,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2015
+          }
+        },
+        {
+          "id": "888a604f-0c6e-4697-93a3-838bf3f3e30e",
+          "course": "Data Structures",
+          "institution": "Academy",
+          "start_date": {
+            "month": 3,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2015
+          }
+        }
+      ]
+    },
+    {
+      "id": "8a9c1107-9ca3-4f3e-8132-71f25d70abbd",
+      "kind": "hobbies",
+      "hobbies": [
+        {
+          "id": "e9d2e61e-bfb0-48da-a602-0e71f05ff3a8",
+          "hobby": "Guitar"
+        },
+        {
+          "id": "b8524903-e64c-4ad8-bdd2-e4b79bdb0ffe",
+          "hobby": "Hiking"
+        },
+        {
+          "id": "0bff35c7-2efe-4ee9-8983-f5763d4e6c53",
+          "hobby": "Photography"
+        }
+      ]
+    },
+    {
+      "id": "87a32450-8cb2-4d40-bf2e-4a5220ccc9ad",
+      "kind": "references",
+      "references": [
+        {
+          "id": "eebd355c-3f51-4ad2-9a64-bfbfcec839d4",
+          "referent_full_name": "Jane Smith",
+          "company_name": "Company",
+          "phone": "456",
+          "email": "jane@example.com"
+        },
+        {
+          "id": "402049d3-8e43-4470-b37c-95e82843d706",
+          "referent_full_name": "Bob Johnson",
+          "company_name": "Another Co",
+          "phone": "789",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": "16fa3fdc-4505-41eb-aa3a-58eadaaf31b0",
+      "kind": "custom",
+      "title": "Projects",
+      "content": [
+        {
+          "id": "46b3eeb0-c7f4-4efb-b4c2-527390e218f8",
+          "title": "Project X",
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2022
+          },
+          "city": "Los Angeles",
+          "description": "Secret project"
+        },
+        {
+          "id": "129fd6fc-a894-413a-9160-0894afba3b7c",
+          "title": "Project Y",
+          "start_date": {
+            "month": 1,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "city": "San Francisco",
+          "description": "Another secret project"
+        }
+      ]
+    }
+  ],
+  "footer_sections": {
+    "privacy_clause": {},
+    "signature": {
+      "location": "New York",
+      "include_date": true,
+      "show_name": true
+    }
+  }
+}

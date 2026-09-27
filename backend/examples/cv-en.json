@@ -1,0 +1,382 @@
+{
+  "id": "a9575f19-8569-5a50-8bba-99d1ca09d67c",
+  "cv_name": "Maya - English CV",
+  "cv_language": "en",
+  "target_country_code": "CH",
+  "style": {
+    "template_id": "classic",
+    "accent_color": "#2563EB",
+    "section_spacing": 0.9,
+    "line_spacing": 1.1,
+    "margin_spacing": 1.2,
+    "date_position": "trailing",
+    "text_alignment": "justify",
+    "font_size": 0.85,
+    "font_family": "georgia",
+    "content_font_scale": 0.95,
+    "heading_font_scale": 1.15
+  },
+  "personal_details": {
+    "first_name": "Maya",
+    "last_name": "Example",
+    "professional_title": "Software Engineer",
+    "email": "maya@example.com",
+    "phone": "123",
+    "street_address": "123 Street",
+    "city": "Zurich",
+    "state": "NY",
+    "postal_code": "10001",
+    "country": "Switzerland",
+    "date_of_birth": "1990-01-01",
+    "place_of_birth": "Springfield",
+    "nationality": "American",
+    "marital_status": "Single",
+    "driving_license": "B",
+    "personal_website": "https://example.com"
+  },
+  "professional_summary": {
+    "summary": "Software engineer building internal business tools."
+  },
+  "sections": [
+    {
+      "id": "f59e46b4-deca-527b-97f9-46451aaa8f5f",
+      "kind": "social_links",
+      "social_links": [
+        {
+          "id": "0a3d36a1-5509-527f-8153-6de938fd6cea",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com/in/john"
+        },
+        {
+          "id": "80042203-6f5b-507f-845d-deb6a71ee6e5",
+          "label": "GitHub",
+          "url": "https://github.com/johndoe"
+        }
+      ]
+    },
+    {
+      "id": "9ca03971-60ce-57e3-a1ec-fdd50c1c9011",
+      "kind": "employment",
+      "employment": [
+        {
+          "id": "a2cca419-d240-552c-b467-bc88bf0a9bbd",
+          "start_date": {
+            "year": 2024,
+            "month": null
+          },
+          "end_date": null,
+          "job_title": "Engineering Manager",
+          "employer": "Northstar",
+          "city": "Zurich",
+          "description": "<ul><li>Managed a team developing internal tools.</li></ul>"
+        },
+        {
+          "id": "97500902-facf-5ccd-bda2-b5666d719cfc",
+          "start_date": {
+            "year": 2020,
+            "month": 1
+          },
+          "end_date": {
+            "year": 2023,
+            "month": 12
+          },
+          "job_title": "Software Engineer",
+          "employer": "Northstar",
+          "city": "Zurich",
+          "description": "<ul><li>Built reporting tools with Python and PostgreSQL.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "dcaf34c7-8788-56e2-8463-ebf24231e8c0",
+      "kind": "education",
+      "education": [
+        {
+          "id": "bfb0a8f7-74f4-5f1f-b294-b1eff8862a8c",
+          "start_date": {
+            "month": 9,
+            "year": 2010
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2014
+          },
+          "school_name": "University",
+          "degree": "BSc CS",
+          "city": "New York",
+          "description": "Studied computer science"
+        },
+        {
+          "id": "433c2491-a3d2-586c-a270-d7a1cd3bd505",
+          "start_date": {
+            "month": 9,
+            "year": 2014
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2016
+          },
+          "school_name": "University",
+          "degree": "MSc CS",
+          "city": "New York",
+          "description": "Advanced studies"
+        }
+      ]
+    },
+    {
+      "id": "4b406771-fca1-5621-ae94-f80cf2fa4ead",
+      "kind": "skills",
+      "groups": [
+        {
+          "name": "Programming",
+          "skills": [
+            {
+              "id": "2273b73d-1cc9-55f8-9b6c-60f3b5613e52",
+              "skill_name": "Python",
+              "level": "expert"
+            },
+            {
+              "id": "e0adbaf4-f1a6-5aa9-895a-ee1226f2291d",
+              "skill_name": "SQL",
+              "level": "skillful"
+            }
+          ]
+        },
+        {
+          "name": "DevOps",
+          "skills": [
+            {
+              "id": "1ac6715f-9457-5667-94b8-6adc678e4274",
+              "skill_name": "Docker",
+              "level": null
+            },
+            {
+              "id": "d4a745c2-6204-5004-8b71-770caace976e",
+              "skill_name": "Kubernetes",
+              "level": "beginner"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "skills": [
+            {
+              "id": "6cc936bb-7898-522a-80f0-7786a8dcd2a4",
+              "skill_name": "Problem Solving",
+              "level": "experienced"
+            },
+            {
+              "id": "c6847749-5ef1-5200-b34b-383ca281ad80",
+              "skill_name": "Communication",
+              "level": "expert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d3a7b30-2130-5d3f-91ac-f1d0850287a8",
+      "kind": "languages",
+      "languages": [
+        {
+          "id": "c9bf6fff-cb94-5bdb-8c1a-d84b25f3b547",
+          "language": "English",
+          "level": "C2"
+        },
+        {
+          "id": "38ba5b9b-ad76-55e1-b611-d5024366978a",
+          "language": "Spanish",
+          "level": "B2"
+        },
+        {
+          "id": "71958b82-e231-551e-9c1f-9a36a683b182",
+          "language": "German",
+          "level": null
+        }
+      ]
+    },
+    {
+      "id": "89a04a51-fc3a-5a57-b6f0-502f698fce97",
+      "kind": "awards",
+      "awards": [
+        {
+          "id": "3e8fd814-cf86-5018-a2e5-c3f712925800",
+          "name": "Best Developer",
+          "city": "New York",
+          "start_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2019
+          },
+          "description": "Received award"
+        },
+        {
+          "id": "bcfd27dc-7135-5b95-9ee3-54113b8b61c3",
+          "name": "Top Performer",
+          "city": "Boston",
+          "start_date": {
+            "month": 3,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2017
+          },
+          "description": "Recognized for performance"
+        }
+      ]
+    },
+    {
+      "id": "650a7ba5-c9a9-5f2c-aa35-01ea4d3186ba",
+      "kind": "extracurricular",
+      "extra_curricular_activities": [
+        {
+          "id": "621ad988-e723-5ae3-8eb3-e200f4050ec7",
+          "function_title": "Volunteer",
+          "employer": "Nonprofit",
+          "start_date": {
+            "month": 3,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2018
+          },
+          "city": "New York",
+          "description": "Community service"
+        },
+        {
+          "id": "404a4c17-6b3f-558a-b717-c31539d19f65",
+          "function_title": "Tutor",
+          "employer": "Education Center",
+          "start_date": {
+            "month": 1,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2017
+          },
+          "city": "Boston",
+          "description": "Taught programming"
+        }
+      ]
+    },
+    {
+      "id": "8549fea8-2683-5e2a-9a24-923e60ef1788",
+      "kind": "courses",
+      "courses": [
+        {
+          "id": "307c5125-1e34-534f-b876-58359404b6b5",
+          "course": "Algorithms",
+          "institution": "Institute",
+          "start_date": {
+            "month": 1,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2015
+          }
+        },
+        {
+          "id": "8f6b16ef-e872-59e2-9b52-b6370df351f5",
+          "course": "Data Structures",
+          "institution": "Academy",
+          "start_date": {
+            "month": 3,
+            "year": 2015
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2015
+          }
+        }
+      ]
+    },
+    {
+      "id": "b586d843-6629-5836-a5b7-fe0a267ceb1d",
+      "kind": "hobbies",
+      "hobbies": [
+        {
+          "id": "4aaeb089-6c01-5514-9ec7-148bfd3cd613",
+          "hobby": "Guitar"
+        },
+        {
+          "id": "e06b7562-3a2d-530e-9344-30ac6f830b57",
+          "hobby": "Hiking"
+        },
+        {
+          "id": "6ad2dd31-88c0-5feb-86c0-545fab7786fe",
+          "hobby": "Photography"
+        }
+      ]
+    },
+    {
+      "id": "875774be-b9c8-538f-aed9-30aa9138af95",
+      "kind": "references",
+      "references": [
+        {
+          "id": "44f9da36-81bb-5cdc-b437-f8ff0ba395f0",
+          "referent_full_name": "Jane Smith",
+          "company_name": "Company",
+          "phone": "456",
+          "email": "jane@example.com"
+        },
+        {
+          "id": "fc841c9c-1326-555c-9c7d-0147b3505292",
+          "referent_full_name": "Bob Johnson",
+          "company_name": "Another Co",
+          "phone": "789",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": "0502eacb-08ec-577c-b8cb-902ad9e837c4",
+      "kind": "custom",
+      "title": "Projects",
+      "content": [
+        {
+          "id": "11b84cba-5116-584f-811c-8fe1b2be6fff",
+          "title": "Project X",
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2022
+          },
+          "city": "Los Angeles",
+          "description": "Secret project"
+        },
+        {
+          "id": "ec17905e-4c62-5625-90ad-beb4e390e004",
+          "title": "Project Y",
+          "start_date": {
+            "month": 1,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "city": "San Francisco",
+          "description": "Another secret project"
+        }
+      ]
+    }
+  ],
+  "footer_sections": {
+    "privacy_clause": {},
+    "signature": {
+      "location": "New York",
+      "include_date": true,
+      "show_name": true
+    }
+  }
+}

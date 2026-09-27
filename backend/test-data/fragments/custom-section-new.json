@@ -1,0 +1,9 @@
+{
+  "id": null,
+  "kind": "custom",
+  "title": "Additional notes",
+  "content": {
+    "content_type": "text",
+    "text": "Added during PUT /cv/{cv_id} lifecycle test."
+  }
+}

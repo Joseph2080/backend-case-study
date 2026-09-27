@@ -1,0 +1,64 @@
+{
+  "id": "00000000-0000-4000-8000-000000000001",
+  "cv_name": "Lifecycle test CV",
+  "cv_language": "en",
+  "target_country_code": "CH",
+  "style": {
+    "template_id": "classic",
+    "accent_color": "#2563EB",
+    "section_spacing": 1.0,
+    "line_spacing": 1.0,
+    "margin_spacing": 1.0,
+    "date_position": "trailing",
+    "text_alignment": "justify",
+    "font_size": 1.0,
+    "font_family": "georgia",
+    "content_font_scale": 1.0,
+    "heading_font_scale": 1.0
+  },
+  "personal_details": {
+    "first_name": "Test",
+    "last_name": "User",
+    "professional_title": "Software Engineer",
+    "email": "test.user@example.com",
+    "phone": null,
+    "street_address": null,
+    "city": "Zurich",
+    "state": null,
+    "postal_code": null,
+    "country": "Switzerland",
+    "date_of_birth": null,
+    "place_of_birth": null,
+    "nationality": null,
+    "marital_status": null,
+    "driving_license": null,
+    "personal_website": null
+  },
+  "professional_summary": {
+    "summary": "Minimal CV for API lifecycle testing."
+  },
+  "sections": [
+    {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "kind": "employment",
+      "employment": [
+        {
+          "id": "00000000-0000-4000-8000-000000000021",
+          "start_date": {
+            "year": 2022,
+            "month": 3
+          },
+          "end_date": null,
+          "job_title": "Software Engineer",
+          "employer": "Acme Labs",
+          "city": "Zurich",
+          "description": "<ul><li>API lifecycle test role.</li></ul>"
+        }
+      ]
+    }
+  ],
+  "footer_sections": {
+    "privacy_clause": null,
+    "signature": null
+  }
+}

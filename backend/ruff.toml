@@ -1,0 +1,6 @@
+# Ruff configuration for backend
+extend = "pyproject.toml"
+src = ["src"]
+
+[lint.isort]
+known-first-party = ["src"]

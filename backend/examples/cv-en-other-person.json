@@ -1,0 +1,167 @@
+{
+  "id": "8abb6e5c-a6de-42e7-b867-ae25c4077173",
+  "cv_name": "Mia Example - English CV",
+  "cv_language": "en",
+  "target_country_code": "GB",
+  "style": {
+    "template_id": "classic",
+    "accent_color": "#2563EB",
+    "section_spacing": 0.9,
+    "line_spacing": 1.1,
+    "margin_spacing": 1.2,
+    "date_position": "trailing",
+    "text_alignment": "justify",
+    "font_size": 0.85,
+    "font_family": "georgia",
+    "content_font_scale": 0.95,
+    "heading_font_scale": 1.15
+  },
+  "personal_details": {
+    "first_name": "Mia",
+    "last_name": "Example",
+    "professional_title": "Engineering Manager",
+    "email": "mia@example.org",
+    "phone": null,
+    "street_address": null,
+    "city": "London",
+    "state": null,
+    "postal_code": null,
+    "country": "United Kingdom",
+    "date_of_birth": "1992-08-17",
+    "place_of_birth": "Sheffield",
+    "nationality": "British",
+    "marital_status": null,
+    "driving_license": null,
+    "personal_website": "https://example.org/mia-example"
+  },
+  "professional_summary": {
+    "summary": "Engineering manager building customer-facing payment services, with experience in Go and event-driven systems."
+  },
+  "sections": [
+    {
+      "id": "b270ebb8-1fca-4cb3-857f-c5f468111066",
+      "kind": "social_links",
+      "social_links": [
+        {
+          "id": "53c23842-5a2f-4949-a149-183f76b90596",
+          "label": "Developer profile",
+          "url": "https://example.org/profiles/mia-example"
+        }
+      ]
+    },
+    {
+      "id": "cdeb4dc2-f0ed-4849-8165-20d31728b7ba",
+      "kind": "employment",
+      "employment": [
+        {
+          "id": "33644854-484f-46ae-aeaf-c9950aa66721",
+          "start_date": {
+            "year": 2024,
+            "month": 1
+          },
+          "end_date": null,
+          "job_title": "Engineering Manager",
+          "employer": "Northstar",
+          "city": "London",
+          "description": "<ul><li>Managed the customer payments engineering team.</li><li>Introduced reliability practices for Go services.</li></ul>"
+        },
+        {
+          "id": "e4ab9089-3cfe-44ea-b555-ce6ed493608f",
+          "start_date": {
+            "year": 2018,
+            "month": 9
+          },
+          "end_date": {
+            "year": 2023,
+            "month": 11
+          },
+          "job_title": "Software Engineer",
+          "employer": "Riverbank Software",
+          "city": "London",
+          "description": "<ul><li>Built payment reconciliation services and event processing pipelines.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "87e53f78-70e9-49f4-b1b3-70ba83e66301",
+      "kind": "education",
+      "education": [
+        {
+          "id": "c193eeda-b13d-42e0-8a9e-0927a14739c3",
+          "start_date": {
+            "year": 2011,
+            "month": 9
+          },
+          "end_date": {
+            "year": 2015,
+            "month": 6
+          },
+          "school_name": "Westbridge University",
+          "degree": "BSc Software Engineering",
+          "city": "Sheffield",
+          "description": "Focused on distributed systems and software design."
+        }
+      ]
+    },
+    {
+      "id": "a9c4ebf6-591a-483f-a928-bb24536e1d9e",
+      "kind": "skills",
+      "groups": [
+        {
+          "name": "Backend development",
+          "skills": [
+            {
+              "id": "d5273dfa-b38c-407d-8c97-3b69f80c2a32",
+              "skill_name": "Go",
+              "level": "expert"
+            },
+            {
+              "id": "ec07e7fe-58b5-4e68-a2ab-3d91a1f9f8f1",
+              "skill_name": "PostgreSQL",
+              "level": "experienced"
+            },
+            {
+              "id": "3bcf8591-140f-4a6f-852b-18fa1fa40c74",
+              "skill_name": "Redis",
+              "level": "experienced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5b6e215a-f089-4663-82be-d95435a6354d",
+      "kind": "languages",
+      "languages": [
+        {
+          "id": "a27fa73a-d95e-4981-bca1-550205776756",
+          "language": "English",
+          "level": "native"
+        },
+        {
+          "id": "31d9d796-7bfd-4683-8abb-2cd206ddf242",
+          "language": "German",
+          "level": "conversational"
+        }
+      ]
+    },
+    {
+      "id": "66f0e2cb-0c31-46e0-9c3e-4e7d7592c168",
+      "kind": "hobbies",
+      "hobbies": [
+        {
+          "id": "1d9c4844-7875-4ae3-8955-e899e65c4bff",
+          "hobby": "Running"
+        },
+        {
+          "id": "85883b63-4936-4ff4-a37a-ea78e51b77e7",
+          "hobby": "Pottery"
+        }
+      ]
+    }
+  ],
+  "footer_sections": {
+    "privacy_clause": null,
+    "signature": null
+  }
+}
